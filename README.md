@@ -75,19 +75,11 @@ Problem Solving/
 - Learn from different approaches
 - Get ideas for similar problems
 
-## 📊 Progress Tracking
 
-### What's Inside Each Problem Folder:
-```
-├── problem_description.md    → What the problem is asking
-├── solution.java/py/cpp      → Working solution
-├── explanation.md             → Detailed explanation
-└── notes.md                   → Key learnings and tips
-```
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Java, Python, C++ (or whatever your choose)
+- **Languages**: C++ (or whatever your choose)
 - **Data Structures**: Arrays, Linked Lists, Trees, Graphs, Hash Maps, etc.
 - **Algorithms**: Sorting, Searching, DP, Recursion, BFS/DFS, etc.
 
@@ -164,7 +156,6 @@ This is my personal learning repository. I update it as I:
 ## 📚 Resources Used
 
 - LeetCode
-- HackerRank
 - GeeksforGeeks
 - Interview preparation books
 - Online tutorials and courses
